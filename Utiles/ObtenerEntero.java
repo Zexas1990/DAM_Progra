@@ -23,3 +23,5 @@
 		}
 		return n;
 	}
+
+	//Prueba para obetener entero
