@@ -1,0 +1,36 @@
+body {
+    background-color: #ff7700;
+}
+
+div{
+    text-align: center;
+    
+}
+
+h1 { 
+    color: rgb(255, 255, 255); 
+    font-family: 'Helvetica Neue', sans-serif; 
+    font-size: 100px; 
+    font-weight: bold; 
+    letter-spacing: -1px; 
+    line-height: 1; 
+    text-align: center; 
+}
+
+.boton {
+    width: 200px;
+    height: 40px;
+    border: 2px solid rgb(12, 12, 12);
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-size: 16px;
+    margin-bottom: 10px;
+    padding: 10px;
+    cursor: pointer;
+    color: #ff7700;
+    font-family: 'Helvetica Neue', sans-serif;
+
+}
+
+
+
