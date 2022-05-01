@@ -1,0 +1,36 @@
+body {
+    background: #F3904F;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #3B4371, #F3904F);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #3B4371, #F3904F); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+
+}
+
+h1 { 
+    color: rgb(255, 255, 255); 
+    font-family: 'Helvetica Neue', sans-serif; 
+    font-size: 100px; 
+    font-weight: bold; 
+    letter-spacing: -1px; 
+    line-height: 1; 
+    text-align: center; 
+}
+
+.boton {
+    width: 200px;
+    height: 40px;
+    border: 2px solid rgb(12, 12, 12);
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-size: 16px;
+    margin-bottom: 10px;
+    padding: 10px;
+    cursor: pointer;
+    
+    font-family: 'Helvetica Neue', sans-serif;
+
+}
+
+div{
+    text-align: center;
+}

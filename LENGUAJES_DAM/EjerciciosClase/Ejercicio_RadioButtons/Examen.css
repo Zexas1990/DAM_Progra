@@ -1,0 +1,31 @@
+body {
+    background: #43ef62;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #39bfdd, #43ef62);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #39bfdd, #43ef62); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+
+}
+
+h1 { 
+    color: rgb(255, 255, 255); 
+    font-family: 'Helvetica Neue', sans-serif; 
+    font-size: 50px; 
+    font-weight: bold; 
+    letter-spacing: -1px; 
+    line-height: 1; 
+    text-align: center; 
+
+    padding: 5px 10px;
+    border: rgb(254, 255, 255) 5px solid;
+    border-radius: 20px;
+    
+}
+
+div{
+    width: 30%;
+    margin: 0 auto;
+    font-family: 'Helvetica Neue', sans-serif; 
+    color: rgb(255, 255, 255); 
+    
+}
+
